@@ -1,0 +1,10 @@
+gradio
+torch
+torchvision
+diffusers
+transformers
+accelerate
+safetensors
+peft
+sentencepiece
+protobuf
